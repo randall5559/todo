@@ -1,0 +1,13 @@
+.task-expand-collapse-wrapper {
+    padding: 10px 25px;
+    font-family: sans-serif, Arial, Helvetica;
+    color: #4990E2;
+}
+
+span {
+    margin: 0 5px;
+}
+
+a {
+    cursor: pointer;
+}

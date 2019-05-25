@@ -1,0 +1,27 @@
+.group-input-wrapper {
+    font-family: sans-serif, Arial, Helvetica;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.group-label {
+    margin-left: 20px;
+    font-size: larger;
+    color: #4A4A4A;
+    font-weight: 600;
+}
+
+.group-input {
+    border: none;
+    flex: 2;
+    font-size: 18px;
+    margin-left: 10px;
+    height: 50px;
+}
+
+.group-button {
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+}

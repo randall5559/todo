@@ -1,0 +1,21 @@
+.voice-content {
+    font-family: sans-serif, Arial, Helvetica;
+    color: #4A4A4A;
+    padding: 10px;
+}
+
+.voice-saying-header {
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 800;
+    color: #4A4A4A;
+}
+
+.voice-saying-list {
+    padding: 0px 10px;
+}
+
+.voice-saying {
+    margin: 15px 5px;
+}

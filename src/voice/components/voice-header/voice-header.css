@@ -1,0 +1,28 @@
+.voice-header-wrapper {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    border-bottom: solid lightgray thick;
+    color: #4A4A4A;
+    font-weight: 600;
+}
+
+.voice-h1 {
+    flex: 1;
+}
+
+.voice-click-label {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.voice-button {
+    border: none;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.voice-button img {
+    width: 50px;
+    height: 50px;
+}

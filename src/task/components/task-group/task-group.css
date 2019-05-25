@@ -1,0 +1,40 @@
+.task-group-wrapper {
+    font-family: sans-serif, Arial, Helvetica;
+    margin-top: 10px;
+}
+
+.task-group-header {
+    display: flex;
+    margin: 5px;
+}
+
+.task-group-arrow {
+    width: 8px;
+    height: 10px;
+}
+
+.task-group-label {
+    flex: 2;
+    padding: 10px;
+}
+
+.task-group-title {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #4A4A4A;
+}
+
+.task-group-of-complete {
+    font-size: 14px;
+    color: #9B9B9B;
+}
+
+.task-group-button {
+    border: none;
+    cursor: pointer;
+}
+
+.task-group-expanded {
+    transform: rotate(90deg);
+}

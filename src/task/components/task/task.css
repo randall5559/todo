@@ -1,0 +1,49 @@
+.task-wrapper {
+    border-top: solid thick #E2E2E2;
+    display: flex;
+    align-items: center;
+    min-height: 65px;
+    padding: 5px;
+}
+
+.task-status-button {
+    border: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.task-remove-button,
+.task-check-button {
+    border: none;
+    margin-right: 10px;
+    padding: 0;
+    cursor: pointer;
+}
+
+.task-img {
+    width: 25px;
+    height: 25px;
+
+}
+
+.task-label {
+    font-size: 16px;
+    flex: 2;
+    color: #4A4A4A;
+}
+
+.task-completed {
+    color: lightgray;
+    font-size: 14px;
+}
+
+.task-striked {
+    text-decoration: line-through;
+}
+
+.task-locked {
+    width: 20px;
+    margin-left: 3px;
+}
+

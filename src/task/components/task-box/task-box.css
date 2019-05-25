@@ -1,0 +1,11 @@
+.block {
+    min-height: 70px;
+    background-color: white;
+    margin: 15px 20px;
+    box-shadow: 1px 2px 1px #E2E2E2;
+    border: thin solid #E2E2E2;
+}
+
+.no-top-margin {
+    margin-top: 0;
+}

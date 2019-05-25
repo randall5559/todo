@@ -1,0 +1,32 @@
+.task-input-wrapper {
+    background-color: #E2E2E2;
+    min-height: 55px;
+    padding: 10px;
+}
+
+.task-input-inner-wrapper {
+    border-radius: 20px;
+    background-color: white;
+    display: flex;
+    padding: 10px 8px 10px 15px;
+}
+
+.task-input-input {
+    flex: 1;
+    font-size: 20px;
+    border: none;
+}
+
+.task-input-input:focus {
+    border: none;
+}
+
+.task-input-button {
+    border: none;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.task-input-img {
+    padding: 0;
+}
